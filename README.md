@@ -8,8 +8,7 @@ Get info about:
 * Temperature
 * Zcash miner info
 
-![Telegram GPU info Bot](https://github.com/krared/GPU_nvidia_bot/blob/master/Screen.png | width=300)
-
+<img src="https://github.com/krared/GPU_nvidia_bot/blob/master/Screen.png" width="300">
 
 # How to use
 
