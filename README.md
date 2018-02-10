@@ -26,7 +26,7 @@ Or you can install from source with:
 	$ git clone https://github.com/python-telegram-bot/python-telegram-bot --recursive
 	$ cd python-telegram-bot
 	$ python setup.py install
-```shell
+```
 
 
 2. Create API Token telegram
@@ -36,7 +36,7 @@ https://telegram.me/BotFather
 4. Run
 ```shell
     $ python python_temp.py
-```shell
+```
 
 Donate:
 zcash: t1aEDvd7kqBTFY3er3kB7pxTxPnXNj4VJrx
