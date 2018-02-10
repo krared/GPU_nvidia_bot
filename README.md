@@ -26,6 +26,8 @@ https://telegram.me/BotFather
 ```shell
     $ python python_temp.py
 ```
+5. write to bot: /set 3600 
+
 
 Donate:
 
