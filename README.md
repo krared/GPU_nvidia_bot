@@ -1,4 +1,4 @@
-#  Python nvidia GPU`s stats bot
+#  Nvidia GPU`s stats bot
 
 Get info about:
 * Frequency
